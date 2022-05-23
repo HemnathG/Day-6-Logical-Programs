@@ -1,1 +1,1 @@
-# Day-6-Logical-Programs
+Welcome to Logical Programs
